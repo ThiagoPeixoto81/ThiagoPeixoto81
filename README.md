@@ -2,7 +2,7 @@
 <h4>Estou neste momento focado em melhorar minhas habilidades de Front-end e UX/UI.</h4>
 
 <h3>Estou estudando atualmente</h3>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" height="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40px" height="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" height="40px" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
            
 <h3>Projetos em desenvolvimento:</h3>
   - <a href="le-mans.vercel.app">le-mans.vercel.app</a>
