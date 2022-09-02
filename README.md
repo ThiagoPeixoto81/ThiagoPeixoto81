@@ -8,6 +8,6 @@ Estou estudando atualmente:
   - React
  
 Projetos em desenvolvimento:
-  - <a>le-mans.vercel.app</a>
+  - <a href="le-mans.vercel.app">le-mans.vercel.app</a>
  
 Seja bem vindo ao meu Github!
