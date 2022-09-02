@@ -7,11 +7,5 @@
 ### Sobre mim
 Estou estudando para melhorar minhas habilidades de Front-end e UX/UI
 
-###Projetos em andamento:
-
-<a href="le-mans.vercel.app">lLeMans Winners - </a>
-Cozinhe!
-Senna
-
 
 
