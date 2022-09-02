@@ -8,7 +8,7 @@ Estou estudando atualmente:
   - React
  
 Projetos em desenvolvimento:
-  - <a>lemans.vercel.app</a>
+  - le-mans.vercel.app
  
 Para entrar em contato comigo:
   - Email: thiagopeixoto81xd@gmail.com
