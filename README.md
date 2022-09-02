@@ -1,4 +1,4 @@
-# Olá, me chamo Thiago
+# Olá, me chamo Thiago Peixoto
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ThiagoPeixoto81)](https://github.com/ThiagoPeixoto81)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/thi._peixoto)](https://instagram.com/thi._peixoto)
@@ -6,4 +6,12 @@
 
 ### Sobre mim
 Estou estudando para melhorar minhas habilidades de Front-end e UX/UI
+
+###Projetos em andamento:
+
+<a href="le-mans.vercel.app">lLeMans Winners - </a>
+Cozinhe!
+Senna
+
+
 
