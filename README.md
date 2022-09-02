@@ -10,9 +10,4 @@ Estou estudando atualmente:
 Projetos em desenvolvimento:
   - <a>le-mans.vercel.app</a>
  
-Para entrar em contato comigo:
-  - Email: thiagopeixoto81xd@gmail.com
-  - Instagram: @thi._peixoto
-  - twitter: peixoto_00
-
 Seja bem vindo ao meu Github!
