@@ -8,7 +8,7 @@ Estou estudando atualmente:
   - React
  
 Projetos em desenvolvimento:
-  - le-mans.vercel.app
+  - <a>le-mans.vercel.app</a>
  
 Para entrar em contato comigo:
   - Email: thiagopeixoto81xd@gmail.com
@@ -16,8 +16,3 @@ Para entrar em contato comigo:
   - twitter: peixoto_00
 
 Seja bem vindo ao meu Github!
-
-<!---
-ThiagoPeixoto81/ThiagoPeixoto81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
