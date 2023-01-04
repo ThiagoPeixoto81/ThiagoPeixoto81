@@ -1,9 +1,5 @@
 # Olá, mundo. Sou Thiago Peixoto!
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ThiagoPeixoto81)](https://github.com/ThiagoPeixoto81)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/thi._peixoto)](https://instagram.com/thi._peixoto)
-
-
 <div style="display: inline">
 <a href="https://github.com/ThiagoPeixoto81">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoPeixoto81&layout=compact&langs_count=7&theme=dark&count_private=true"/>
